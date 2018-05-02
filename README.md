@@ -12,17 +12,15 @@ _0 TILs and counting..._
 ### Categories
 
 * [CSS](#css)
-* [Git](#git)
+* [Git SCM](#git)
 * [JavaScript](#javascript)
-* [Mac](#mac)
-* [Phoenix](#phoenix)
-* [PostgreSQL](#postgresql)
-* [Rails](#rails)
-* [React](#react)
-* [React Native](#react-native)
-* [Ruby](#ruby)
-* [VSCode](#vscode)
-* [Workflow](#workflow)
+* [Mac OS X](#mac)
+* [Phoenix Framework](#phoenix)
+* [PostgreSQL Database](#postgresql)
+* [Rails Web App Framework](#rails)
+* [Ruby Programming Language](#ruby)
+* [VSCode and other code editors](#vscode)
+* [Workflow, Team, Communication and Productivity](#workflow)
 
 ---
 
