@@ -14,7 +14,7 @@ _0 TILs and counting..._
 * [CSS](#css)
 * [Git SCM](#git)
 * [JavaScript](#javascript)
-* [Mac OS X](#mac)
+* [Mac OS X 10.x](#mac)
 * [Phoenix Framework](#phoenix)
 * [PostgreSQL Database](#postgresql)
 * [Rails Web App Framework](#rails)
