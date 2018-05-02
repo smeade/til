@@ -2,8 +2,7 @@
 
 > Today I Learned
 
-A collection of concise write-ups on small things I learn or remember day to day.
-
+Small things I learn or remember day to day.
 Inspired by and copied from https://github.com/jbranchaud/til.
 
 _0 TILs and counting..._
